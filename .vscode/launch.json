@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DESdec",
+      "request": "launch",
+      "mainClass": "DESdec",
+      "projectName": "Crytograpy_3156c6c3"
+    },
+    {
+      "type": "java",
+      "name": "DES",
+      "request": "launch",
+      "mainClass": "DES",
+      "projectName": "Crytograpy_3156c6c3"
+    },
+    {
+      "type": "java",
+      "name": "DESExample",
+      "request": "launch",
+      "mainClass": "DESExample",
+      "projectName": "Crytograpy_3156c6c3"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/USER/1. SourceCode/Crytograpy",
+      "program": "c:/Users/USER/1. SourceCode/Crytograpy/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
